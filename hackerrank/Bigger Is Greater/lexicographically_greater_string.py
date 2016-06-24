@@ -3,7 +3,7 @@ import sys
 Note :: please read this nice article about how to generate next lexicographical permutation
 https://www.nayuki.io/page/next-lexicographical-permutation-algorithm
 
-it's much easier to think about this problem in terms of numbers than character
+it's much easier to think about this problem in terms of numbers than characters
 Example: 5 1 4 3 2 0 =>  5 2 4 3 1 0 => 5 2 0 1 3 4 
 We want to increase this sequence by as little as possible using same digits. 
 
